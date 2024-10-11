@@ -1,0 +1,21 @@
+---
+layout: single
+title: "Welcome to My Research Website"
+---
+# Hi, I'm Devyani McLaren
+I'm a Ph.D. student at UBC working on affective haptics, human-robot interaction, and emotional support technologies.
+
+My recent projects include:
+- **ShearSense SPIN UIST 2024**: Designing a novel haptic sensor for emotional interactions.
+- **LungSounds Platform**: Developing a platform for at-home lung health monitoring.
+
+Explore my [CV](link_to_cv.pdf), [research projects](projects), and [publications](publications).
+
+---
+layout: home
+---
+# Recent Projects
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
