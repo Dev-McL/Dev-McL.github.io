@@ -1,23 +1,4 @@
 
-<!-- ---
-
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-layout: page
-title: "About Me"
----
-
-# Welcome to My Research Website
-
-I'm Devyani McLaren, a Ph.D. student in Computer Science at UBC specializing in **Affective Haptics** and **Human-Robot Interaction**. My research focuses on designing technologies that connect touch and emotion for therapeutic purposes.
-
-Explore my [projects](/projects) and [publications](/publications). You can also view my [CV](/cv) for a detailed overview of my academic background. -->
-
-
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
