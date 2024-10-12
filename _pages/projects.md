@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ShearSense SPIN UIST 2024"
+title: "Current Research & Projects"
 date: 2024-10-10
 categories: projects
 permalink: /projects/

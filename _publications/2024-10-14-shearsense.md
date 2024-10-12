@@ -1,5 +1,4 @@
 ---
----
 title: "What is Affective Touch Made Of? A Soft Capacitive Sensor Array Reveals the Interplay between Shear, Normal Stress and Individuality"
 collection: publications
 category: conferences
