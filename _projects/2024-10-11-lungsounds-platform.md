@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "LungSounds Platform"
 date: 2024-10-11
 categories: [projects]

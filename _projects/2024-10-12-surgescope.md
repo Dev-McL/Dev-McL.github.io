@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Surgescope: Craniotomy Surgical Simulator"
 date: 2024-10-12
 categories: [projects]
