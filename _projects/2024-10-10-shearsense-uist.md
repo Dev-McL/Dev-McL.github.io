@@ -1,11 +1,16 @@
+
 ---
 layout: post
 title: "ShearSense SPIN UIST 2024"
 date: 2024-10-10
 categories: [projects]
-permalink: /posts/2024/10/shearsense-UIST-2024/
 ---
-ShearSense is a novel haptic sensor that captures nuanced touch features, designed for affective touch applications. This project will be presented at UIST 2024.
+
+ShearSense is a novel haptic sensor that captures nuanced touch features, designed for affective touch applications. By measuring shear and normal stress, the sensor reveals detailed aspects of touch interaction, making it valuable for emotional communication in human-robot interaction. This project will be presented at UIST 2024, showcasing its application in creating more responsive and empathetic robots. Read the paper <a href="https://dl.acm.org/doi/10.1145/3654777.3676346" target="_blank">here.</a>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rSG6I3IIdXU" frameborder="0" allowfullscreen></iframe>
+
 
 
 <!-- ---
