@@ -1,5 +1,5 @@
 
----
+<!-- ---
 
 permalink: /
 title: "About Me"
@@ -15,13 +15,10 @@ title: "About Me"
 
 I'm Devyani McLaren, a Ph.D. student in Computer Science at UBC specializing in **Affective Haptics** and **Human-Robot Interaction**. My research focuses on designing technologies that connect touch and emotion for therapeutic purposes.
 
-Explore my [projects](/projects) and [publications](/publications). You can also view my [CV](/cv) for a detailed overview of my academic background.
+Explore my [projects](/projects) and [publications](/publications). You can also view my [CV](/cv) for a detailed overview of my academic background. -->
 
 
-
-
-
-<!-- ---
+---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -69,4 +66,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
