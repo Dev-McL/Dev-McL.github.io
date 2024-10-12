@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites, about.md page"
+title: "Hi, I'm Devyani McLaren"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi, I'm Devyani McLaren
 I'm a Ph.D. student at UBC working on affective haptics, human-robot interaction, and emotional support technologies.
 
 My recent projects include:
