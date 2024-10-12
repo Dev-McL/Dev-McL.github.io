@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at UBC working on affective haptics, human-robot interaction, and emotional support technologies. Free free to reach out: devyanim@cs.ubc.ca. 2
+I'm a Ph.D. student at UBC working on affective haptics, human-robot interaction, and emotional support technologies. Free free to reach out: devyanim@cs.ubc.ca. 3
 
 My recent projects include:
 - **ShearSense SPIN UIST 2024**: Designing a novel haptic sensor for emotional interactions.

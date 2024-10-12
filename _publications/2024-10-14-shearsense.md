@@ -2,7 +2,7 @@
 title: "What is Affective Touch Made Of? A Soft Capacitive Sensor Array Reveals the Interplay between Shear, Normal Stress and Individuality"
 collection: publications
 category: conferences
-permalink: /publication/2024-10-14-shearsense/
+permalink: /publications/2024-10-14-shearsense/
 excerpt: 'This paper presents ShearSense, a novel haptic sensor for emotional interactions.'
 date: 2024-10-14
 venue: 'ACM UIST 2024'
