@@ -7,9 +7,19 @@ redirect_from:
   - /resume
 ---
 
+---
+
+# My CV
+
+You can view or download my complete CV [here](https://docs.google.com/document/d/1y482h7qVQ_YSGL7JIACp7WCscpSEa30f/edit?usp=sharing&ouid=115670651279149077575&rtpof=true&sd=true).
+
+---
+
+For more details on my research, check out my [projects](/projects) or [publications](/publications).
+
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
