@@ -3,7 +3,7 @@ layout: single
 title: "ShearSense SPIN UIST 2024"
 date: 2024-10-10
 categories: projects
-permalink: /projects/2024-10-10-shearsense-uist/
+permalink: /projects/
 ---
 
 ### ShearSense SPIN UIST 2024
