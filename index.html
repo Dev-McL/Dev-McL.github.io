@@ -1,21 +1,31 @@
 ---
-layout: single
-title: "Welcome to My Research Website"
----
-# Hi, I'm Devyani McLaren
-I'm a Ph.D. student at UBC working on affective haptics, human-robot interaction, and emotional support technologies.
-
-My recent projects include:
-- **ShearSense SPIN UIST 2024**: Designing a novel haptic sensor for emotional interactions.
-- **LungSounds Platform**: Developing a platform for at-home lung health monitoring.
-
-Explore my [CV](link_to_cv.pdf), [research projects](projects), and [publications](publications).
-
----
 layout: home
+title: "Devyani McLaren"
 ---
-# Recent Projects
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+<div style="text-align: center;">
+  <h1>Hi, I'm Devyani McLaren</h1>
+  <p>
+    I'm a Ph.D. student in Computer Science at UBC, specializing in <strong>Affective Haptics</strong> and <strong>Human-Robot Interaction</strong>.
+  </p>
+  
+  <p>
+    <a href="/cv" class="button">Download my CV</a>
+  </p>
+</div>
+
+<div style="margin-top: 40px;">
+  <h2>Recent Projects</h2>
+  <ul>
+    <li><a href="/projects/shearsense-uist">ShearSense SPIN UIST 2024</a> – Designing a novel haptic sensor for emotional interactions.</li>
+    <li><a href="/projects/lungsounds">LungSounds Platform</a> – A platform for guiding at-home, digital self-auscultation for COPD patients.</li>
+  </ul>
+</div>
+
+<div style="margin-top: 40px;">
+  <h2>Publications</h2>
+  <ul>
+    <li><a href="link-to-publication-1">What is Affective Touch Made Of?</a></li>
+    <li><a href="link-to-publication-2">Demonstrating Virtual Teamwork with Synchrobots</a></li>
+  </ul>
+</div>
