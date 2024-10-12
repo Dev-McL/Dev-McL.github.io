@@ -1,0 +1,14 @@
+---
+---
+title: "What is Affective Touch Made Of? A Soft Capacitive Sensor Array Reveals the Interplay between Shear, Normal Stress and Individuality"
+collection: publications
+category: conferences
+permalink: /publication/2024-10-10-shearsense-uist
+excerpt: 'This paper presents ShearSense, a novel haptic sensor for emotional interactions.'
+date: 2024-10-10
+venue: 'ACM UIST 2024'
+paperurl: 'https://dl.acm.org/doi/10.1145/3654777.3676346'
+citation: 'D. McLaren et al. (2024). "ShearSense: Capturing Nuanced Touch for Affective Haptics." ACM UIST 2024.'
+---
+
+The ShearSense project introduces a new haptic sensor capable of capturing both shear and normal forces. This novel approach allows for more nuanced touch recognition in emotionally driven interactions, significantly enhancing affective haptics applications.
